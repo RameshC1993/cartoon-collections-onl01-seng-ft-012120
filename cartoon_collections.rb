@@ -6,7 +6,10 @@ end
 end
 
 def summon_captain_planet(array)
-  
+  new_arr = []
+  array.collect do |calls|
+    new_arr << "#{calls."
+  end
 end
 
 def long_planeteer_calls# code an argument here
